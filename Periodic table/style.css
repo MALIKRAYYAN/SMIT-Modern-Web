@@ -1,0 +1,22 @@
+.table table{
+   
+    font-size: 50px;
+}
+
+.green{
+    background: green;
+}
+
+
+.yellow{
+    background: yellow;
+}
+
+.blue{
+    background: rgb(82, 183, 216)
+}
+
+.grey{
+    background: rgb(222, 221, 221);
+}
+
