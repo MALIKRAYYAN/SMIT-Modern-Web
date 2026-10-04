@@ -1,0 +1,41 @@
+*{
+    * {
+        background-image: url(./image.png);
+        opacity: 200px;
+        color: #f8fafc;            
+}
+}
+
+h1{
+    text-align: center;
+}
+
+.btn{
+    margin-left: 595px;
+    margin-top: 60px;
+    display: flex;
+    gap: 20px;
+}
+
+.yes{
+    color: #ffffff;            
+    border: none;
+    padding: 10px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.No{
+    color: #ffffff;            
+    border: none;
+    padding: 10px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.No:hover{
+    transform: translate(-150px, -80px);
+}
+
