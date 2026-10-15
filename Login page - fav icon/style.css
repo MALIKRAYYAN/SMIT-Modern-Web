@@ -1,0 +1,48 @@
+body{
+    background: lightblue;
+}
+.card{
+    background: rgb(243, 181, 243);
+    height: 280px;
+    margin-top: 70px;
+    margin-left: 440px;
+    text-align: center;
+    width: 30% ;
+    border: 1px solid black;
+}
+
+.pn{
+    font-size: 20px;
+    border-radius: 10px;
+    height: 20px;
+}
+
+.p{
+    font-size: 20px;
+    border-radius: 10px;
+    height: 20px;
+}
+
+.fa-regular{
+    position: absolute;
+    left: 750px;
+    top: 155px;
+    position: fixed;
+}
+
+.fa-solid{
+    position: absolute;
+    left: 750px;
+    top: 200px;
+    position: fixed;
+}
+
+.lo{
+    text-decoration: none;
+    color: black;
+    background: brown;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
